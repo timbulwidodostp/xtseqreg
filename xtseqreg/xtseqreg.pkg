@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'xtseqreg': Sequential (two-stage) estimation of linear panel data models Use xtseqreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lxtseqreg.mlib
+f xtseqreg.ado
+f xtseqreg.sthlp
+f xtseqreg_estat.ado
+f xtseqreg_p.ado
+f xtseqreg_postestimation.sthlp
