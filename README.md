@@ -1,6 +1,8 @@
 # xtseqreg
 Sequential (two-stage) estimation of linear panel data models Use xtseqreg With STATA 18
 
+https://www.youtube.com/watch?v=H_tUiAL9SPI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
